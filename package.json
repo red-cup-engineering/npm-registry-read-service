@@ -30,6 +30,6 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@red-cup-engineering/package-test-plan": "workspace:*"
+    "@red-cup-engineering/jsnode-package-services-section": "workspace:*"
   }
 }
