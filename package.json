@@ -34,7 +34,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@red-cup-engineering/jsnode-package-services-section": "0.2.4"
+    "@red-cup-engineering/jsnode-package-engineering-services-section": "0.2.4"
   },
   "funding": {
     "type": "individual",
